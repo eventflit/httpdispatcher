@@ -11,7 +11,7 @@
   "devDependencies": {},
   "keywords": ["util", "httpdispatcher", "dispatcher"],
   "main": "httpdispatcher.js",
-  "name": "httpdispatcher",
+  "name": "httpdispatcherfork",
   "repository": {"url": "https://github.com/alberto-bottarini/httpdispatcher", "type": "git"},
   "version": "2.1.2",
   "license": "MIT"
